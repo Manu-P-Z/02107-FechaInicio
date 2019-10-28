@@ -25,8 +25,8 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.printf("Fecha de inicio....: %02d/%02d/%d%n" ,4, 10, 2019);
-        
+        System.out.printf("Fecha de inicio....: %02d/%02d/%d%n", 4, 10, 2019);
+
     }
-    
+
 }
